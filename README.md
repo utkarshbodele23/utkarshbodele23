@@ -30,7 +30,7 @@ main()
 
 ```text
 ├── Python       # primary 
-├── SQL          # reliable
+└── SQL          # reliable
 ```
 
 ### Frameworks & Tools
