@@ -1,16 +1,84 @@
-## Hi there 👋
+# Utkarsh Bodele
 
-<!--
-**utkarshbodele23/utkarshbodele23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```bash
+$ whoami
+utkarsh@dev:~$ AI engineer & backend developer
+```
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building production-focused AI systems, retrieval pipelines, and backend services.
+
+```python
+def main():
+    interests = [
+        "RAG systems",
+        "LLM applications",
+        "document intelligence",
+        "backend architecture",
+        "AI workflow automation"
+    ]
+
+    print(f"Building: {interests}")
+
+main()
+```
+
+## Stack
+
+### Languages
+
+```text
+├── Python       # primary 
+├── SQL          # reliable
+```
+
+### Frameworks & Tools
+
+```text
+backend/
+├── FastAPI
+├── Flask
+└── REST APIs
+
+ai/
+├── OpenAI
+├── LangChain
+├── Qdrant
+├── ChromaDB
+├── Azure AI
+└── Ollama
+
+tools/
+├── Git
+├── Docker
+├── Postman
+└── Linux
+```
+
+## Current
+
+```text
+├── Building PaperMind
+├── Exploring production-grade RAG
+├── Improving retrieval quality
+└── Looking for AI engineering opportunities
+```
+
+## Contact
+
+```json
+{
+  "email": "utkarshbodele23@gmail.com",
+  "linkedin": "linkedin.com/in/utkarsh-bodele",
+  "status": "building things that work"
+}
+```
+
+---
+
+```bash
+Last Login: $(date)
+
+utkarsh@dev:~$
+```
