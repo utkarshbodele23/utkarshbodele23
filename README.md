@@ -70,8 +70,7 @@ tools/
 ```json
 {
   "email": "utkarshbodele23@gmail.com",
-  "linkedin": "linkedin.com/in/utkarsh-bodele",
-  "status": "building things that work"
+  "linkedin": "linkedin.com/in/utkarsh-bodele"
 }
 ```
 
